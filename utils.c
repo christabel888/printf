@@ -14,7 +14,6 @@ int is_printable(char c)
 	return (0);
 }
 
-
 /**
  * append_hexa_code - Append ascci in hexadecimal code to buffer
  * @buffer: Array of chars.
